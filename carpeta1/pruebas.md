@@ -1,4 +1,4 @@
-## Reto
+
 
 # **Reto de Programación: Gestión de Mantenimiento de Flota Aeronáutica ✈️**
 # en este archivo se muestra las pruebas del funcionamiento del codigo.
