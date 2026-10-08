@@ -1,1 +1,1 @@
-![IMAGEN](carpeta1/image1.png)
+![IMAGEN](./carpeta1/image1.png)
